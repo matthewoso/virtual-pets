@@ -1,0 +1,13 @@
+TODO:
+
+1. Add a "play" button to each pet, that reduces that pet's boredom
+2. Add a "Add Pet" button, along with two text inputs for "name" and "species", which adds a pet and represents it to the user
+3. Make the model persistent using LocalStorage, so that refreshing the browser doesn't delete your pets (see: mvc example on the student portal)
+
+
+OPTIONAL:
+
+1. Add a interval timer that slowly increases the hunger and boredom of your pets
+2. Display some of picture depending on the species of your pets
+3. Remove pets that get too hungry or bored?? You cruel person.
+4. Anything else that you want to do!
